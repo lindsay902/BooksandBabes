@@ -30,7 +30,8 @@ h1 {
 
 h2 {
     color: #525252;
-    font-family: "Georgia", serif;
+    font-family: "Raleway", serif;
+    font-size: 35px;
 }
 
 h3 {
@@ -48,7 +49,7 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 45%;
+    width: 75%;
 }
 
 .flex-container {
@@ -69,7 +70,6 @@ p {
     padding-left: 7%;
     padding-top: 3%;
     padding-bottom: 1%;
-    font-family: Georgia, serif;
     font-weight: bold;
 }
 
@@ -79,13 +79,17 @@ p {
     align-items: stretch;
     flex-wrap: wrap;
     padding-left: 7%;
+    padding-top: 20px;
+    background: #f6a5b8;
+    background-size: 100%;
 }
 
 .book-cover {
     flex-basis: auto;
     align-self: center;
-    max-width: 75%;
+    max-width: 55%;
 }
+
 
 .vote-section {
     font-family: Raleway, sans-serif;
