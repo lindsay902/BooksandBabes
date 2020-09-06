@@ -144,4 +144,18 @@ p {
     margin-top: 40px;
 }
 
+.ig-logo {
+    width: 25px;
+    height: 25px;
+}
+
+.footer {
+    text-align: center;
+    font-size: small;
+}
+
+a {
+    color: #525252;
+    text-decoration: none;
+}
 
